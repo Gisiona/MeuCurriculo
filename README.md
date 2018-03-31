@@ -10,5 +10,5 @@ Meu site pessoal desenvolvido desenvolvido com Asp.Net Core.
   * Templante Html5
   * Visual Studio 2017
 
-# Link di site
+# Link do site
 http://www.gisionacosta.com.br/
