@@ -1,2 +1,11 @@
 # MeuCurriculo
-Meu site pessoal desenvolvido com Asp.Net Core Mvc e C#, utilizando templante html5, css3 e JavaScript.
+Meu site pessoal desenvolvido desenvolvido com Asp.Net Core.
+
+# Tecnologias:
+  * Asp.Net Core Mvc
+  * C#
+  * Html5
+  * Css3
+  * JavaScript
+  * Templante Html5
+  * Visual Studio 2017
