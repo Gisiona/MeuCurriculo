@@ -10756,11 +10756,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\TFS\\GitHub\\MeuCurriculo\\MeuCurriculo\\MeuCurriculo.csproj",
+      "projectUniqueName": "C:\\TFS\\GitHub\\src\\MeuCurriculo\\MeuCurriculo\\MeuCurriculo.csproj",
       "projectName": "MeuCurriculo",
-      "projectPath": "C:\\TFS\\GitHub\\MeuCurriculo\\MeuCurriculo\\MeuCurriculo.csproj",
+      "projectPath": "C:\\TFS\\GitHub\\src\\MeuCurriculo\\MeuCurriculo\\MeuCurriculo.csproj",
       "packagesPath": "C:\\Users\\g.costa.de.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\GitHub\\MeuCurriculo\\MeuCurriculo\\obj\\",
+      "outputPath": "C:\\TFS\\GitHub\\src\\MeuCurriculo\\MeuCurriculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g.costa.de.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
