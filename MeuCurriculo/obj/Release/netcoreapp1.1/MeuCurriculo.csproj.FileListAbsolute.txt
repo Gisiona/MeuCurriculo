@@ -1,0 +1,10 @@
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\bin\Release\netcoreapp1.1\MeuCurriculo.deps.json
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\bin\Release\netcoreapp1.1\MeuCurriculo.runtimeconfig.json
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\bin\Release\netcoreapp1.1\MeuCurriculo.runtimeconfig.dev.json
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\bin\Release\netcoreapp1.1\MeuCurriculo.dll
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\bin\Release\netcoreapp1.1\MeuCurriculo.pdb
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\obj\Release\netcoreapp1.1\MeuCurriculo.csprojResolveAssemblyReference.cache
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\obj\Release\netcoreapp1.1\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\obj\Release\netcoreapp1.1\MeuCurriculo.AssemblyInfo.cs
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\obj\Release\netcoreapp1.1\MeuCurriculo.dll
+C:\TFS\myfists\MyFirstProject\MeuCurriculo\MeuCurriculo\obj\Release\netcoreapp1.1\MeuCurriculo.pdb
