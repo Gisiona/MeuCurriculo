@@ -1,7 +1,7 @@
 # MeuCurriculo
 Meu site pessoal desenvolvido desenvolvido com Asp.Net Core.
 
-# Tecnologias:
+# Tecnologias
   * Asp.Net Core Mvc
   * C#
   * Html5
@@ -9,3 +9,6 @@ Meu site pessoal desenvolvido desenvolvido com Asp.Net Core.
   * JavaScript
   * Templante Html5
   * Visual Studio 2017
+
+# Link di site
+http://www.gisionacosta.com.br/
