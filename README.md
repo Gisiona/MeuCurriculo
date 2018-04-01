@@ -9,6 +9,7 @@ Meu site pessoal desenvolvido desenvolvido com Asp.Net Core.
   * JavaScript
   * Templante Html5
   * Visual Studio 2017
+  * Bootstrap
 
 # Link do site
 http://www.gisionacosta.com.br/
